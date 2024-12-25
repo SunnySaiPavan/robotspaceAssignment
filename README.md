@@ -15,4 +15,4 @@ A full-stack task management application built using the MERN stack, with SQLite
 ### Backend Setup
 1. Navigate to the `backend` directory:
    ```bash
-   cd backend
+   cd backend 
